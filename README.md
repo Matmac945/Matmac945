@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm  Matias a Data Scientist currently in working in NLP related projects!.
+I'm  Matias a Data Scientist currently working in NLP related projects!.
 My background is in interactive experiences and music production. 
 
 I love creating tools and systems that help people collaborate and interact with computers in new and inspiring ways. 🤖

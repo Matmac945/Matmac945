@@ -2,8 +2,11 @@
 
 I'm  Matias a Data Scientist currently in working in NLP related projects!.
 My background is in interactive experiences and music production. 
-Lately I've been focused in more _"technical"_ focused projects, but one of my biggest passions is building tools and systems for creation of art and collaboration between computers and humans. 🤖
 
+I love creating tools and systems that help people collaborate and interact with computers in new and inspiring ways. 🤖
+
+- 👽[Listen to my old music](https://soundcloud.com/polybius_fm) 
+- 🚀[Some of my project](https://tdaxis.github.io/)
 <!--
 **Matmac945/Matmac945** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

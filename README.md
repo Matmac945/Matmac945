@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm  Matias a Data Scientist currently in working in NLP related projects!.
+My background is in interactive experiences and music production. 
+Lately I've been focused in more _"technical"_ focused projects, but one of my biggest passions is building tools and systems for creation of art and collaboration between computers and humans. 🤖
+
 <!--
 **Matmac945/Matmac945** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
